@@ -4,6 +4,8 @@ This organization hosts all repositories related to my PhD research in **AI and 
 
 > ⚠️ *Work in progress: still migrating repositories from my lab's private GitLab.*
 
+🎓 Read the full thesis here: [Robust Neural Machine Translation of User-Generated Content](https://theses.hal.science/tel-05448644).
+
 For an overview of my personal projects, contributions, and pinned repositories, visit my personal GitHub: **[github.com/lydianish](https://github.com/lydianish)**
 
 ## 📌 Pinned Projects
