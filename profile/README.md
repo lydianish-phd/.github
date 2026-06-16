@@ -11,7 +11,7 @@ For an overview of my personal projects, contributions, and pinned repositories,
 ## 📌 Pinned Projects
 
 ### 🔹 [ugc-mt-eval-challenges](https://github.com/lydianish-phd/ugc-mt-eval-challenges)  
-This repository contains the full research code and experiments from my PhD work on **translating user-generated content (UGC)** with instruction-tuned LLMs under different prompting and evaluation settings, demonstrating the importance of **guideline-aware and controllable evaluation**.
+This repository contains the full research code and experiments from my PhD work on **translating user-generated content (UGC) with LLMs** under different prompting and evaluation settings, demonstrating the importance of **guideline-aware and controllable evaluation**.
 
 📄 This work was published at EAMT 2026. Read the preprint here: [When the Gold Standard Isn't Necessarily Standard: Challenges of Evaluating the Translation of User-Generated Content (Nishimwe et al., 2026)](https://arxiv.org/abs/2512.17738)
 
